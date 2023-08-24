@@ -1,5 +1,3 @@
-Chapter 6: Measuring AI Impact on Writing Performance
-=====================================================
 
 Assessing the impact of AI implementation in writing is critical for ensuring that AI tools and technologies are delivering the desired outcomes. In this chapter, we will discuss strategies for measuring AI impact on writing performance.
 

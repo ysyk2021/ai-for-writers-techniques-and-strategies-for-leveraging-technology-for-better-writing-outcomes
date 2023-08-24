@@ -1,5 +1,3 @@
-Types of AI Used for Writing
-=====================================================================
 
 AI technology is transforming the field of writing and content creation. In this chapter, we will explore the various types of AI used for writing, including natural language processing, machine translation, content creation, and sentiment analysis.
 

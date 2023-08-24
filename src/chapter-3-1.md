@@ -1,5 +1,3 @@
-Assessing Your Writing Needs and Goals
-======================================================================================================
 
 Before implementing AI technology in writing, it is important to assess your writing needs and goals. In this chapter, we will explore the steps writers can take to prepare themselves for AI implementation by assessing their writing needs and goals.
 

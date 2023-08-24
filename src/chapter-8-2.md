@@ -1,5 +1,3 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-==============================================================================================================
 
 As AI technology becomes more prevalent in writing workflows, it is important to consider the ethical and governance considerations related to AI implementation. In this chapter, we will discuss strategies for developing governance frameworks to ensure responsible AI use in writing.
 

@@ -1,5 +1,3 @@
-Chapter 7: AI Ethics and Governance for Writing
-===============================================
 
 As the use of AI technology in writing continues to grow, it is critical to consider the ethical implications and ensure responsible use. In this chapter, we will explore ethical considerations, governance frameworks, and legal and regulatory considerations for AI implementation in writing.
 

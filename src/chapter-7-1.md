@@ -1,5 +1,3 @@
-Assessing the Effectiveness of AI for Writing Outcomes
-=============================================================================================================
 
 Assessing the effectiveness of AI implementation in writing is critical for ensuring that AI tools and technologies are delivering the desired outcomes. In this chapter, we will discuss strategies for assessing the effectiveness of AI for writing outcomes.
 

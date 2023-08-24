@@ -1,5 +1,3 @@
-Evaluating Data Availability and Quality
-========================================================================================================
 
 Before implementing AI technology in writing, it is important to evaluate data availability and quality. In this chapter, we will explore the steps writers can take to prepare themselves for AI implementation by evaluating their data.
 

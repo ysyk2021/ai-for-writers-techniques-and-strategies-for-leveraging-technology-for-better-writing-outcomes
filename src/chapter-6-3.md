@@ -1,5 +1,3 @@
-Case Studies of Successful AI Implementations in Writing
-===============================================================================================================
 
 There are many examples of successful AI implementations in writing that have improved accuracy, efficiency, and effectiveness. In this chapter, we will explore some case studies of successful AI implementations in writing.
 
